@@ -8,7 +8,6 @@ import { faCar } from '@fortawesome/free-solid-svg-icons';
 // Asume que los estilos comunes (Title, Text, etc.) están disponibles
 
 // --- Estilos de la Página ---
-
 const HomeContainer = styled.div`
     padding: 20px 40px;
     background-color: #f0f4f7; /* Un fondo gris claro para el contenido */

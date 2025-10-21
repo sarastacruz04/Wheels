@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "Diego",
+    "apellido": "Gomez",
+    "idUniversidad": "0000336260",
+    "email": "diegompap@gmail.com",
+    "telefono": "3212426927",
+    "password": "123456789"
+  },
+  {
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "idUniversidad": "0000999888",
+    "email": "juanperez@gmail.com",
+    "telefono": "3123456789",
+    "password": "111111111"
+  },
+  {
+    "nombre": "Sara",
+    "apellido": "Santacruz",
+    "idUniversidad": "0000322240",
+    "email": "sara@gmail.com",
+    "telefono": "3122328937",
+    "password": "987654321"
+  },
+  {
+    "nombre": "david",
+    "apellido": "perez",
+    "idUniversidad": "0000334523",
+    "email": "david@gmail.com",
+    "telefono": "4212426938",
+    "password": "123456789"
+  },
+  {
+    "nombre": "jose",
+    "apellido": "montes",
+    "idUniversidad": "0000453275",
+    "email": "jose@gmail.com",
+    "telefono": "3567479536",
+    "password": "000000000"
+  }
+]
